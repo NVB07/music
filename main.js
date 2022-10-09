@@ -28,10 +28,52 @@ const app = {
   // config: JSON.parse(localStorage.getItem(PlAYER_STORAGE_KEY)) || {},
   songs: [
     {
+      name: "Đường Tôi Chở Em Về (Lofi)",
+      singer: "buitruonglinh x Freak D",
+      path: "https://stream.nixcdn.com/NhacCuaTui1017/DuongToiChoEmVeLofiVersion-buitruonglinhFreakD-7025960.mp3?st=gHgltfe37DwS1xDkoeuRUw&e=1665418306",
+      image: "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/8/3/2/c83247bc75a132fdd93982c10b2cc152.jpg"
+    },
+    {
+      name: "3107-1",
+      singer: "W/n x Duongg x Nâu",
+      path: "https://stream.nixcdn.com/NhacCuaTui996/3107-WnDuonggNau-6099150.mp3?st=vL4Ce_WKpVpBwXwoOtlJSQ&e=1665418721",
+      image: "https://avatar-nct.nixcdn.com/song/share/2020/02/25/4/c/c/c/1582627021793.jpg"
+    },
+    {
+      name: "3107-2",
+      singer: "W/n x Duongg x Nâu",
+      path: "https://stream.nixcdn.com/NhacCuaTui1011/31072-DuonggNauWn-6937818.mp3?st=GR5gmDC3S2QwXPcKD7fZrg&e=1665419556&download=true",
+      image: "https://avatar-ex-swe.nixcdn.com/song/2021/06/15/5/1/b/4/1623768316831_640.jpg"
+    },
+    {
+      name: "3107-3",
+      singer: "Nâu, Duongg, Titie",
+      path: "https://stream.nixcdn.com/NhacCuaTui2027/31073-WnDuongGNauTitie-7058449.mp3?st=3TcwJA_C5A9K5fTVLQu9RA&e=1665418911",
+      image: "https://avatar-ex-swe.nixcdn.com/song/2021/08/02/5/0/1/7/1627860417460_640.jpg"
+    },
+    {
+      name: "3107-4",
+      singer: "W/n, ERIK, Nâu",
+      path: "https://stream.nixcdn.com/NhacCuaTui2026/31074-WnERIKNau-7663728.mp3?st=YesI_y9SvK9opQDBP0syGA&e=1665419827&download=true",
+      image: "https://i.ytimg.com/vi/9uUExk_kgEQ/mqdefault.jpg"
+    },
+    {
+      name: "Chẳng Thể Tìm Được Em",
+      singer: "PhucXp ft. Freak D",
+      path: "https://stream.nixcdn.com/Believe_Audio17/ChangTheTimDuocEmBalladVersion-PhucXP-6887501.mp3?st=UcFxkmgSa4BBSE6FzXv5gw&e=1665419221",
+      image: "https://i1.sndcdn.com/artworks-yukyFaBjTlbbBrn6-yjfdgg-t500x500.jpg"
+    },
+    {
       name: "Ánh sao và bầu trời",
-      singer: "T.R.I x Cá",
+      singer: "Dick, Tofu, PC",
       path: "https://stream.nixcdn.com/NhacCuaTui1021/AnhSaoVaBauTroi-TRI-7085073.mp3?st=03rOBZW2B-L7lQ0TthMM6Q&e=1665409360&download=true",
       image: "https://i1.sndcdn.com/artworks-FYlZeEdyC6FDDiYs-H8KP0A-t500x500.jpg"
+    },
+    {
+      name: "Ghé Qua",
+      singer: "T.R.I x Cá",
+      path: "https://stream.nixcdn.com/Believe_Audio19/GheQua-TaynguyenSoundTofuPC-7031399.mp3?st=NrWx0-Irgy7OioGq3LjWdg&e=1665418589",
+      image: "https://i1.sndcdn.com/artworks-WFjcb9cbxTntQHor-hfUxYw-t500x500.jpg"
     },
     {
       name: "Sài Gòn hôm nay mưa",
