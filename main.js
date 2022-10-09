@@ -31,7 +31,7 @@ const app = {
       name: "Ánh sao và bầu trời",
       singer: "T.R.I x Cá",
       path: "https://stream.nixcdn.com/NhacCuaTui1021/AnhSaoVaBauTroi-TRI-7085073.mp3?st=03rOBZW2B-L7lQ0TthMM6Q&e=1665409360&download=true",
-      image: "./img/anhsaovabautroi.jpg"
+      image: "https://i1.sndcdn.com/artworks-FYlZeEdyC6FDDiYs-H8KP0A-t500x500.jpg"
     },
     {
       name: "Sài Gòn hôm nay mưa",
