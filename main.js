@@ -37,7 +37,7 @@ const app = {
       name: "3107-1",
       singer: "W/n x Duongg x Nâu",
       path: "https://stream.nixcdn.com/NhacCuaTui996/3107-WnDuonggNau-6099150.mp3?st=vL4Ce_WKpVpBwXwoOtlJSQ&e=1665418721",
-      image: "https://avatar-nct.nixcdn.com/song/share/2020/02/25/4/c/c/c/1582627021793.jpg"
+      image: "https://lyricvn.com/wp-content/uploads/2020/03/61b35411029c6156973232016738c1b7.jpg"
     },
     {
       name: "3107-2",
@@ -55,7 +55,7 @@ const app = {
       name: "3107-4",
       singer: "W/n, ERIK, Nâu",
       path: "https://stream.nixcdn.com/NhacCuaTui2026/31074-WnERIKNau-7663728.mp3?st=YesI_y9SvK9opQDBP0syGA&e=1665419827&download=true",
-      image: "https://i.ytimg.com/vi/9uUExk_kgEQ/mqdefault.jpg"
+      image: "https://cdns-images.dzcdn.net/images/cover/1b6bce058de157f89a0a6eae2ff5c40c/264x264.jpg"
     },
     {
       name: "Chẳng Thể Tìm Được Em",
@@ -101,10 +101,10 @@ const app = {
         "https://avatar-ex-swe.nixcdn.com/song/2022/08/10/4/8/b/1/1660104031203_500.jpg"
     },
     {
-      name: "Chờ Đơi Có Đáng Sợ",
+      name: "Chờ Đợi Có Đáng Sợ",
       singer: "Andiez",
-      path:"https://data3.chiasenhac.com/downloads/2104/0/2103416-02b6a03e/128/Cho%20Doi%20Co%20Dang%20So%20-%20Andiez.mp3",
-      image:"https://i.ytimg.com/vi/OzFT42BOWeQ/0.jpg"
+      path:"https://stream.nixcdn.com/Believe_Audio78/ChoDoiCoDangSo-Andiez-7641306.mp3?st=JbbfMtR8Y_EEEiNz4BiCZg&e=1665469824&download=true",
+      image:"https://i.scdn.co/image/ab67616d0000b27302af2be6e2dd46a1d1e9ad55"
     },
     {
       name: "Những Gì Anh Nói",
@@ -116,19 +116,19 @@ const app = {
         name: "Cô Ấy Nói",
         singer: "Ngô Anh Đạt x Freak D",
         path:"https://stream.nixcdn.com/NhacCuaTui1022/CoAyNoi-NgoAnhDat-7092492.mp3?st=3rN9xQIAGIPVhMt72tBsmg&e=1665410386",
-        image: "https://i.ytimg.com/vi/wWsbpYH4t2g/0.jpg"
+        image: "https://i.scdn.co/image/ab67616d0000b273999576545059a3f63bc0b358"
       },
       {
         name: "Ôm em lần cuối - lofi",
         singer: "Nit ft. Sing x Freak D",
         path:"https://stream.nixcdn.com/NhacCuaTui1023/OmEmLanCuoiLofiVersion-FreakDNITSing-7099594.mp3?st=3sdNeQMwUVHtbjqlKJi6rQ&e=1665410513",
-        image: "https://avatar-ex-swe.nixcdn.com/song/2021/10/02/3/3/3/5/1633163914175_640.jpg"
+        image: "https://i.scdn.co/image/ab67616d0000b2737dc7c048785d6ab347328274"
       },
       {
         name: "Bước Qua Nhau",
         singer: "Vũ",
         path:"https://stream.nixcdn.com/Warner_Audio86/BuocQuaNhau-Vu-7847964.mp3?st=02MW0qikRmfV6ZMAierjoQ&e=1665410812",
-        image: "https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/07/17/2/0/e/d/1594980595388_600.jpg"
+        image: "https://avatar-ex-swe.nixcdn.com/song/share/2021/11/19/b/e/5/0/1637317185220.jpg"
       },
       {
         name: "Bước Qua Mùa Cô Đơn",
